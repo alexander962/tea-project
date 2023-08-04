@@ -11,6 +11,7 @@ p, h2, h3, h4, ul {
   background: center/cover no-repeat url("./img/section-1-bg.png");
   padding: 224px 0 306px;
   border-radius: 64px;
+  max-height: 90vh;
 }
 
 .tea-section1__wrapper {
@@ -562,6 +563,7 @@ p, h2, h3, h4, ul {
 
   .tea-section1 {
     padding: 52px 110px 640px;
+    max-height: none;
   }
 
   .tea-section1__text {
